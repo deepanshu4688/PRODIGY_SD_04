@@ -1,5 +1,5 @@
 # PRODIGY_SD_04
-PRODIGY_SD_04
+
 To create a Sudoku solver with a graphical user interface (GUI), we can use the tkinter library in Python. This implementation will allow the user to input the Sudoku puzzle, solve it using the backtracking algorithm, and display the solution on the GUI.
 
 Here's how to do it:
